@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heap-sort", "heap-sort\heap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge-sort", "merge-sort\merge-sort.vcxproj", "{55A8D7D3-C387-46BF-9B02-D79113D7B55E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "insert-sort", "insert-sort\insert-sort.vcxproj", "{5831B706-1308-41CB-B975-38DAE63ED9F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{55A8D7D3-C387-46BF-9B02-D79113D7B55E}.Debug|Win32.Build.0 = Debug|Win32
 		{55A8D7D3-C387-46BF-9B02-D79113D7B55E}.Release|Win32.ActiveCfg = Release|Win32
 		{55A8D7D3-C387-46BF-9B02-D79113D7B55E}.Release|Win32.Build.0 = Release|Win32
+		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Debug|Win32.Build.0 = Debug|Win32
+		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Release|Win32.ActiveCfg = Release|Win32
+		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
