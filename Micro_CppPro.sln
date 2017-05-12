@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge-sort", "merge-sort\me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "insert-sort", "insert-sort\insert-sort.vcxproj", "{5831B706-1308-41CB-B975-38DAE63ED9F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra", "Dijkstra\Dijkstra.vcxproj", "{98085AB0-ACF9-43E3-89C4-04AC015D2BA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Debug|Win32.Build.0 = Debug|Win32
 		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Release|Win32.ActiveCfg = Release|Win32
 		{5831B706-1308-41CB-B975-38DAE63ED9F3}.Release|Win32.Build.0 = Release|Win32
+		{98085AB0-ACF9-43E3-89C4-04AC015D2BA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98085AB0-ACF9-43E3-89C4-04AC015D2BA0}.Debug|Win32.Build.0 = Debug|Win32
+		{98085AB0-ACF9-43E3-89C4-04AC015D2BA0}.Release|Win32.ActiveCfg = Release|Win32
+		{98085AB0-ACF9-43E3-89C4-04AC015D2BA0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
